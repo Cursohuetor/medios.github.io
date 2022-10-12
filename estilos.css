@@ -13,7 +13,7 @@ por tanto se da block y se les añade float.*/
 /*tiene margen para poder centrarlo respecto a izquierda solo 
 en el primer elemento*/
 .a{
-    background: red;
+    background: rgb(75, 74, 74);
     margin-left: 10%;
     box-shadow: 10px 5px 20px grey;
 
@@ -25,11 +25,11 @@ div:nth-of-type(mp4) {background-color: blue;}
 p::selection{background-color: pink; color:yellow;}
 
 .b{
-    background: green;
+    background: rgb(150, 151, 150);
     }
 
 .c{
-    background: orange;
+    background: rgb(19, 18, 18);
     }
 
 /* aquí se anula el float con none y tiene margen para poder centrarlo respecto a izquierda en 
