@@ -29,7 +29,7 @@ p::selection{background-color: pink; color:yellow;}
     }
 
 .c{
-    background: rgb(19, 18, 18);
+    background: rgb(26, 196, 159);
     }
 
 /* aquí se anula el float con none y tiene margen para poder centrarlo respecto a izquierda en 
@@ -44,3 +44,4 @@ este caso que va en block es para todos*/
     }
  }
 
+h1{text-align: center;}
